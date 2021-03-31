@@ -1,0 +1,11 @@
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.exe
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.deps.json
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.runtimeconfig.json
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.runtimeconfig.dev.json
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.dll
+D:\InterviewApps\Test-Apps\Test-Apps\bin\Debug\netcoreapp3.1\Test-Apps.pdb
+D:\InterviewApps\Test-Apps\Test-Apps\obj\Debug\netcoreapp3.1\Test-Apps.csprojAssemblyReference.cache
+D:\InterviewApps\Test-Apps\Test-Apps\obj\Debug\netcoreapp3.1\Test-Apps.AssemblyInfoInputs.cache
+D:\InterviewApps\Test-Apps\Test-Apps\obj\Debug\netcoreapp3.1\Test-Apps.AssemblyInfo.cs
+D:\InterviewApps\Test-Apps\Test-Apps\obj\Debug\netcoreapp3.1\Test-Apps.dll
+D:\InterviewApps\Test-Apps\Test-Apps\obj\Debug\netcoreapp3.1\Test-Apps.pdb
