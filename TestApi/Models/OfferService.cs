@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -26,7 +26,7 @@ namespace TestApi.Models
                 new Product{ProductName="p5",Description="P5Desc",Price=600},
                 new Product{ProductName="p6",Description="P6Desc",Price=800}
             };
-
+            this.Inventory = new List<Product>();
             this.Inventory.AddRange(Products);
         }
 
